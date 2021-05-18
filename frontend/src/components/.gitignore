@@ -1,0 +1,30 @@
+# Python
+*.pyc
+*~
+__pycache__
+
+# Env
+.env
+myvenv/
+venv/
+
+# Database
+db.sqlite3
+
+# Static folder at project root
+/static/
+/media/
+/lab_and_musics/
+/pretrained_models/
+
+temp*
+
+# Node modules
+*/node_modules/
+/frontend/node_modules/
+
+# Windows
+Thumbs.db*
+ehthumbs*.db
+[Dd]esktop.ini
+$RECYCLE.BIN/

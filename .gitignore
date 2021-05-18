@@ -1,0 +1,34 @@
+# Python
+*.pyc
+*~
+__pycache__
+
+# Env
+.env
+myvenv/
+venv/
+
+# Database
+db.sqlite3
+
+temp.*
+output.mp4
+*.csv
+*.mp4
+*.mkv
+*.mp3
+
+# Static folder at project root
+/audio_output/
+/static/
+/frontend/static/
+
+# Node modules
+/node_modules/
+/frontend/node_modules/
+
+# Windows
+Thumbs.db*
+ehthumbs*.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
